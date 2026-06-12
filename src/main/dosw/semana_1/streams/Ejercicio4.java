@@ -1,5 +1,4 @@
 package main.dosw.semana_1.streams;
-
 import java.util.List;
 
 public class Ejercicio4 {
