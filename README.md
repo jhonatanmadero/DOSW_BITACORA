@@ -15,10 +15,10 @@ Bitácora Pokémon  donde cada entrenador registrará los resultados de sus inve
 Dada una lista de numeros enteros, obtener una nueva lista solo con los números pares mayores a 10.
 
 **Código implementado:**
-![sem1-ej1-codigo.png](capturas/sem1-ej1-codigo.png)
+![sem1-ej1-codigo.png](capturas/semana%201/sem1-ej1-codigo.png)
 
 **Captura de ejecución:** 
-![sem1-ej1-prueba.png](capturas/sem1-ej1-prueba.png)
+![sem1-ej1-prueba.png](capturas/semana%201/sem1-ej1-prueba.png)
 
 **Explicación:** Se usa `filter()` para conservar solo los números que cumplan dos condiciones: que sean pares (`n % 2 == 0`) y mayores a 10 (`n > 10`).
 
@@ -29,10 +29,10 @@ Dada una lista de numeros enteros, obtener una nueva lista solo con los números
 Dada una lista de palabras, filtrar las que tengan más de 4 caracteres, convertirlas en mayúsculas, ordenarlas alfabéticamente y contar el total.
 
 **Código implementado:**
-![sem1-ej2-codigo.png](capturas/sem1-ej2-codigo.png)
+![sem1-ej2-codigo.png](capturas/semana%201/sem1-ej2-codigo.png)
 
 **Captura de ejecución:** 
-![sem1-ej2-prueba.png](capturas/sem1-ej2-prueba.png)
+![sem1-ej2-prueba.png](capturas/semana%201/sem1-ej2-prueba.png)
 
 **Explicación:** Se encadenan `filter()` para palabras largas, `map()` para mayúsculas, `sorted()` para ordenar y `count()` para obtener el total.
 
@@ -43,11 +43,11 @@ Dada una lista de palabras, filtrar las que tengan más de 4 caracteres, convert
 Dada una lista de usuarios con atributos id, name, age y active, filtrar solo los activos y obtener sus nombres en mayúscula ordenados alfabéticamente.
 
 **Código implementado:**
-![sem1-ej3-codigo2.png](capturas/sem1-ej3-codigo2.png)
-![sem1-ej3-codigo.png](capturas/sem1-ej3-codigo.png)
+![sem1-ej3-codigo2.png](capturas/semana%201/sem1-ej3-codigo2.png)
+![sem1-ej3-codigo.png](capturas/semana%201/sem1-ej3-codigo.png)
 
 **Captura de ejecución:** 
-![sem1-ej3-prueba.png](capturas/sem1-ej3-prueba.png)
+![sem1-ej3-prueba.png](capturas/semana%201/sem1-ej3-prueba.png)
 
 **Explicación:** Se usa `filter()` para quedarse con usuarios activos, `map()` para extraer el nombre en mayúsculas y `sorted()` para ordenarlos alfabéticamente.
 
@@ -58,10 +58,10 @@ Dada una lista de usuarios con atributos id, name, age y active, filtrar solo lo
 Dado un listado de usuarios, filtrar las personas mayores de edad y obtener sus nombres.
 
 **Código implementado:**
-![sem1-ej4-codigo.png](capturas/sem1-ej4-codigo.png)
+![sem1-ej4-codigo.png](capturas/semana%201/sem1-ej4-codigo.png)
 
 **Captura de ejecución:** 
-![sem1-ej4-prueba.png](capturas/sem1-ej4-prueba.png)
+![sem1-ej4-prueba.png](capturas/semana%201/sem1-ej4-prueba.png)
 
 **Explicación:** Se usa `filter()` para conservar solo los usuarios con edad mayor o igual a 18 y `map()` para extraer únicamente sus nombres.
 
@@ -72,10 +72,10 @@ Dado un listado de usuarios, filtrar las personas mayores de edad y obtener sus 
 Dada una lista de transacciones bancarias, usar `peek()` para ver cada transacción procesada y verificar si existe al menos una no aprobada.
 
 **Código implementado:**
-![sem1-ej5-codigo.png](capturas/sem1-ej5-codigo.png)
-![sem1-ej5-codigo2.png](capturas/sem1-ej5-codigo2.png)
+![sem1-ej5-codigo.png](capturas/semana%201/sem1-ej5-codigo.png)
+![sem1-ej5-codigo2.png](capturas/semana%201/sem1-ej5-codigo2.png)
 
 **Captura de ejecución:** 
-![sem1-ej5-prueba.png](capturas/sem1-ej5-prueba.png)
+![sem1-ej5-prueba.png](capturas/semana%201/sem1-ej5-prueba.png)
 
 **Explicación:** Se usa `peek()` para imprimir cada transacción mientras se procesa y `anyMatch()` para verificar si al menos una no está aprobada. El lote es válido solo si todas están aprobadas.
