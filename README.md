@@ -404,3 +404,12 @@ Construir una estructura que muestre cantidad de Pokémon por tipo, por región,
 ![RetoMewtwo-prueba.png](capturas/semana%202/RetoMewtwo-prueba.png)
 
 ---
+
+# SEMANA No 3 — DOSW Diagrama de clases
+
+## Ejercicio en clase:
+![img.png](capturas/semana%203/img.png)
+![img_1.png](capturas/semana%203/img_1.png)
+
+## Solucion:
+![diagrama de clases pokemon.png](capturas/semana%203/diagrama%20de%20clases%20pokemon.png)
