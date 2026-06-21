@@ -413,3 +413,6 @@ Construir una estructura que muestre cantidad de Pokémon por tipo, por región,
 
 ## Solucion:
 ![diagrama de clases pokemon.png](capturas/semana%203/diagrama%20de%20clases%20pokemon.png)
+
+## Ejercicio de manual de identidad
+<img width="1007" height="425" alt="image" src="https://github.com/user-attachments/assets/dd4a7824-68f2-44a2-90c4-98d0b7f9254e" />
